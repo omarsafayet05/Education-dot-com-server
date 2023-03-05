@@ -1,0 +1,27 @@
+[
+  {
+    "id": "0110",
+    "name": "Accounting"
+  },
+
+  {
+    "id": "0220",
+    "name": "Business"
+  },
+  {
+    "id": "0330",
+    "name": "Education"
+  },
+  {
+    "id": "0440",
+    "name": "Management"
+  },
+  {
+    "id": "0550",
+    "name": "Marketing"
+  },
+  {
+    "id": "0660",
+    "name": "Psychology"
+  }
+]

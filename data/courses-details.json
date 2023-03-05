@@ -1,0 +1,55 @@
+[
+  {
+    "id": "01",
+    "course_id": "0110",
+    "rating": { "number": 4.5, "badge": "Excelent" },
+    "title": "Free Online Course For Accounting",
+    "image_url": "https://res.cloudinary.com/di8rfmavc/image/upload/v1666947267/bigstock-ACCOUNTING-inscription-coming-324977827_uucwct.jpg",
+
+    "details": "An accountant is a crucial component of any business of organization making financial transactions.Many individuals also employ accountants to oversee their finances.Academic preparation for accounting involves training in auditing,financial accounting and taxation.Ultimately most accounting training leads to professional certification from the American Institute of Certified Public Accountants (CPAs).Accountants are responsible for the preparation and maintenance of financial records.They also ensure clients meet government regulatory standards for taxes, reporting, and other legislative compliance. Performing these tasks well allows businesses to operate in a cost-efficient manner that meets governmental tax and compliance rules.Busy companies manage multiple revenue streams and conduct hundreds of thousands of transactions as part of the normal course of business.Accountants create financial statements, handle tax obligations, audit books and systems for legal compliance and cost efficiency, and organize reporting systems.All of these tasks must be communicated to management, and accountants are expected to provide cost-saving solutions for the business at hand."
+  },
+  {
+    "id": "02",
+    "course_id": "0220",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "title": "Free Online Course For Business",
+    "image_url": "https://res.cloudinary.com/di8rfmavc/image/upload/v1666947236/Business-Studies_nqxumh.png",
+    "details": "An undergraduate business program educates students on the fundamentals they need in order to become business leaders and successful careerists, regardless of the specific career grads find themselves in.  The curriculum, which often includes online business courses, focuses on the essential critical thinking skills, decision-making techniques, and innovative problem-solving needed to prepare students for a diverse, and sometimes amorphous, marketplace. Business degrees can prepare undergrads for entry-level positions in a staggering amount of fields, and can also spur career growth for professionals already working in business. Typical programs are quite broad, offering a range of specialized concentrations.The business degree is the most popular degree conferred on undergraduates in the U.S., according to a study by the National Center for Education Statistics. This is arguably due to the versatility of the skill set its students acquire. Those able to evaluate data, extrapolate information, and correctly interpret the results are sought by employers in just about any industry. Business school grads are also well-versed in internal policy development and implementation, resource and staff management, professional development practices, and an awareness of the socio-ethical impacts of modern business.A typical four-year business program concentrates on current theory, trends, technology and ethical practices. Typical business degree students spend their freshman and sophomore years studying general education requirements, along with introductory classes in statistics, accounting and economics."
+  },
+  {
+    "id": "03",
+    "course_id": "0330",
+    "rating": { "number": 4.0, "badge": "Good" },
+    "title": "Free Online Course For Education",
+    "image_url": "https://res.cloudinary.com/di8rfmavc/image/upload/v1666947317/education-icon-hand-innovative-online-e-learning-internet-technology-concept-webinar-knowledge-training-courses-skill-168577248_xplijm.jpg",
+
+    "details": "Teachers play a role in shaping our lives from preschool all the way to adulthood. Those who wish to inspire future generations might discover their calling in an education program. Aspiring teachers, school administrators, librarians, and trainers can specialize in instructing students at various ages, such as early childhood, K-8, or high school. Those who enroll within an education degree program can also choose to specialize in certain teaching topics, such as language arts, social studies, chemistry, or mathematics.Positions within teaching, school administration, and corporate instructional design are open to job seekers with a strong background in either childhood or adult education. Overall, education majors gain deep insights into skill development, learning abilities, and leadership practices; this expertise makes them valuable members of any community.Prospective educators will take a wide breadth of courses at the undergraduate level, which will cover the fundamentals of pedagogy, childhood development, and instructional techniques. Some courses may even delve into recent national and state politics that impact teaching regulations, resources, and curricula. The course load for this degree will vary from student to student, depending on one's specialization, which is generally selected when the student applies to an undergraduate program.Special education courses help prospective educators gain a strong familiarity with autism spectrum disorders, physical disabilities, and assistive technologies within academics. Early childhood education courses focus on the psychological and physical stages of infants and toddlers, their nutritional needs, and classroom safety techniques. Elementary education courses emphasize language and logic developments amongst students in grades K-8. Secondary school courses allow aspiring teachers to focus on developing curricula for any number of high school subjects they will go on to teach, often to the exclusion of other core areas of education."
+  },
+  {
+    "id": "04",
+    "course_id": "0440",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "title": "Free Online Course For Management",
+    "image_url": "https://res.cloudinary.com/di8rfmavc/image/upload/v1666947201/leadership-business-management-teamwork-motivation-skills-concept-leadership-business-management-teamwork-motivation-skills-101335622_ghfigu.jpg",
+
+    "details": "The most successful business professionals possess people skills, organizational expertise and a special knack for navigating the corporate sector. Earning a degree in business management, whether through online management courses, or at a traditional brick-and-mortar university, will help groom you into one of these professionals. You'll take courses and become fluent in each area that modern businesses need to succeed in to be competitive: finance, accounting, marketing, human resources and more.Management is the organizational process that includes strategic planning, setting; objectives, managing resources, deploying the human and financial assets needed to achieve objectives and measure results.This career field can be hard to pin down, since management is present in not only business, but also other fields like healthcare, engineering, and social sciences. In response, the academic field of management takes a holistic approach by equipping students with skills and expertise that can be applied to all areas of modern business."
+  },
+  {
+    "id": "05",
+    "course_id": "0550",
+    "rating": { "number": 4.1, "badge": "Moderate" },
+    "title": "Free Online Course For Marketing",
+    "image_url": "https://res.cloudinary.com/di8rfmavc/image/upload/v1666947217/Marketing-Trends-to-Elevate-your-Business_e7w6hd.jpg",
+
+    "details": "Marketing is a key component of any successful customer-facing organization. A skilled marketing team is tasked with finding innovative ways to communicate the benefits of a product or service to the public. As a marketing specialist, you draw upon your skills in communication, writing and critical thinking to craft and execute a marketing strategy that will yield great success for your organization – and yourself.While today students can benefit from the innovation of online marketing courses, this field dates back to the 20th century as a theory for businesses and organizations to begin attracting more and more customers to the products and services they offer. The business world truly recognized the power of marketing after World War II, when many organizations began consolidating various areas of the field (e.g., public relations, advertising, sales, etc.) into a single marketing department.These days, it is almost impossible to master every aspect of the field without a great deal of experience and education. Marketing specialists are expected to quickly grasp the challenges faced by businesses and organizations today and devise practical solutions to fulfill their marketing needs. This requires you to have the skills and wherewithal to craft a marketing strategy that attracts and fosters relationships with an organization's target audience."
+  },
+  {
+    "id": "06",
+    "course_id": "0660",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "title": "Free Online Course For Psychology",
+    "image_url": "https://res.cloudinary.com/di8rfmavc/image/upload/v1666947842/psychology_ujyqqb.jpg",
+
+    "details": "The human mind is complex and mysterious, functioning in ways we are only beginning to understand. At the forefront of this research are psychologists, professionals who examine and unravel the reasoning behind why people think, act, and feel the way they do. Some psychologists delve into the unconscious mind to explore the intricacies of interpersonal relationships; others develop and refine theories to explain the human brain and then use that knowledge to assess and treat a number of disorders. Students can preview this academic field through several online psychology courses, made available for free from some of the best universities.While careers vary, psychologists generally study human thought and behavior by observing, recording, and analyzing how people relate to each other and their environments. Psychologists work in many settings, with some providing mental care, some researching human behavior, and others developing new programs and treatments for pathologies. They can be university professors, therapists, social workers or researchers. A small number of professionals work as industrial-organizational psychologists, helping companies improve employee efficiency and morale. Regardless of which specialization psychologists choose, they aim to better understand thoughts, emotions, feeling, and behavior by exploring patterns, identifying causes, and testing theories via research and treatment."
+  }
+]
